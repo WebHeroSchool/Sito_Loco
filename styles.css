@@ -215,7 +215,6 @@ body {
 }
 
 .promo__wrap {
-    background-image: url(../images/ragazzamobil.jpg);
     background-repeat: no-repeat;
     width: 100%;
     background-size: cover;
@@ -742,7 +741,6 @@ body {
 }
 
 .look__wrap-img {
-    background-image: url(../images/vestiti.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 261px;
